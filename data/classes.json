@@ -1,0 +1,26 @@
+{
+  "classes": [
+    "Braeburn",
+    "Crimson Snow",
+    "Golden Delicious",
+    "Granny Smith",
+    "Pink Lady",
+    "Red Delicious",
+    "Red Yellow"
+  ],
+  "mapping": {
+    "Apple Braeburn 1": "Braeburn",
+    "Apple Crimson Snow 1": "Crimson Snow",
+    "Apple Granny Smith 1": "Granny Smith",
+    "Apple Pink Lady 1": "Pink Lady",
+    "Apple Golden 1": "Golden Delicious",
+    "Apple Golden 2": "Golden Delicious",
+    "Apple Golden 3": "Golden Delicious",
+    "Apple Red 1": "Red Delicious",
+    "Apple Red 2": "Red Delicious",
+    "Apple Red 3": "Red Delicious",
+    "Apple Red Delicious 1": "Red Delicious",
+    "Apple Red Yellow 1": "Red Yellow",
+    "Apple Red Yellow 2": "Red Yellow"
+  }
+}

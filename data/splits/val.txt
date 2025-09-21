@@ -1,0 +1,581 @@
+data/images/val/Braeburn/0_100.jpg	Braeburn
+data/images/val/Braeburn/106_100.jpg	Braeburn
+data/images/val/Braeburn/111_100.jpg	Braeburn
+data/images/val/Braeburn/118_100.jpg	Braeburn
+data/images/val/Braeburn/119_100.jpg	Braeburn
+data/images/val/Braeburn/123_100.jpg	Braeburn
+data/images/val/Braeburn/126_100.jpg	Braeburn
+data/images/val/Braeburn/14_100.jpg	Braeburn
+data/images/val/Braeburn/154_100.jpg	Braeburn
+data/images/val/Braeburn/155_100.jpg	Braeburn
+data/images/val/Braeburn/157_100.jpg	Braeburn
+data/images/val/Braeburn/160_100.jpg	Braeburn
+data/images/val/Braeburn/168_100.jpg	Braeburn
+data/images/val/Braeburn/177_100.jpg	Braeburn
+data/images/val/Braeburn/195_100.jpg	Braeburn
+data/images/val/Braeburn/196_100.jpg	Braeburn
+data/images/val/Braeburn/198_100.jpg	Braeburn
+data/images/val/Braeburn/1_100.jpg	Braeburn
+data/images/val/Braeburn/203_100.jpg	Braeburn
+data/images/val/Braeburn/208_100.jpg	Braeburn
+data/images/val/Braeburn/20_100.jpg	Braeburn
+data/images/val/Braeburn/212_100.jpg	Braeburn
+data/images/val/Braeburn/22_100.jpg	Braeburn
+data/images/val/Braeburn/230_100.jpg	Braeburn
+data/images/val/Braeburn/233_100.jpg	Braeburn
+data/images/val/Braeburn/255_100.jpg	Braeburn
+data/images/val/Braeburn/260_100.jpg	Braeburn
+data/images/val/Braeburn/262_100.jpg	Braeburn
+data/images/val/Braeburn/267_100.jpg	Braeburn
+data/images/val/Braeburn/268_100.jpg	Braeburn
+data/images/val/Braeburn/269_100.jpg	Braeburn
+data/images/val/Braeburn/26_100.jpg	Braeburn
+data/images/val/Braeburn/273_100.jpg	Braeburn
+data/images/val/Braeburn/277_100.jpg	Braeburn
+data/images/val/Braeburn/280_100.jpg	Braeburn
+data/images/val/Braeburn/284_100.jpg	Braeburn
+data/images/val/Braeburn/298_100.jpg	Braeburn
+data/images/val/Braeburn/319_100.jpg	Braeburn
+data/images/val/Braeburn/r_101_100.jpg	Braeburn
+data/images/val/Braeburn/r_105_100.jpg	Braeburn
+data/images/val/Braeburn/r_111_100.jpg	Braeburn
+data/images/val/Braeburn/r_118_100.jpg	Braeburn
+data/images/val/Braeburn/r_122_100.jpg	Braeburn
+data/images/val/Braeburn/r_137_100.jpg	Braeburn
+data/images/val/Braeburn/r_142_100.jpg	Braeburn
+data/images/val/Braeburn/r_154_100.jpg	Braeburn
+data/images/val/Braeburn/r_15_100.jpg	Braeburn
+data/images/val/Braeburn/r_171_100.jpg	Braeburn
+data/images/val/Braeburn/r_177_100.jpg	Braeburn
+data/images/val/Braeburn/r_180_100.jpg	Braeburn
+data/images/val/Braeburn/r_186_100.jpg	Braeburn
+data/images/val/Braeburn/r_198_100.jpg	Braeburn
+data/images/val/Braeburn/r_19_100.jpg	Braeburn
+data/images/val/Braeburn/r_213_100.jpg	Braeburn
+data/images/val/Braeburn/r_225_100.jpg	Braeburn
+data/images/val/Braeburn/r_22_100.jpg	Braeburn
+data/images/val/Braeburn/r_232_100.jpg	Braeburn
+data/images/val/Braeburn/r_234_100.jpg	Braeburn
+data/images/val/Braeburn/r_238_100.jpg	Braeburn
+data/images/val/Braeburn/r_250_100.jpg	Braeburn
+data/images/val/Braeburn/r_266_100.jpg	Braeburn
+data/images/val/Braeburn/r_26_100.jpg	Braeburn
+data/images/val/Braeburn/r_270_100.jpg	Braeburn
+data/images/val/Braeburn/r_289_100.jpg	Braeburn
+data/images/val/Braeburn/r_28_100.jpg	Braeburn
+data/images/val/Braeburn/r_2_100.jpg	Braeburn
+data/images/val/Braeburn/r_300_100.jpg	Braeburn
+data/images/val/Braeburn/r_304_100.jpg	Braeburn
+data/images/val/Braeburn/r_306_100.jpg	Braeburn
+data/images/val/Braeburn/r_307_100.jpg	Braeburn
+data/images/val/Braeburn/r_309_100.jpg	Braeburn
+data/images/val/Braeburn/r_30_100.jpg	Braeburn
+data/images/val/Braeburn/r_318_100.jpg	Braeburn
+data/images/val/Crimson Snow/0_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/11_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/160_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/161_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/171_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/181_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/182_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/19_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/202_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/208_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/210_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/214_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/21_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/222_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/226_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/237_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/247_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/248_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/255_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/273_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/274_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/276_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/29_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/2_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/38_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/59_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/60_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/63_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/68_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/6_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/74_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/75_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/79_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_100_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_109_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_127_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_129_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_136_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_137_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_173_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_178_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_191_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_197_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_204_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_208_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_213_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_214_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_226_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_232_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_242_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_252_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_272_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_278_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_281_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_285_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_294_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_3_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_4_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_6_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_74_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_77_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_7_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_85_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_86_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_91_100.jpg	Crimson Snow
+data/images/val/Crimson Snow/r_92_100.jpg	Crimson Snow
+data/images/val/Golden Delicious/108_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/110_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/112_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/117_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/118_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/122_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/131_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/135_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/137_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/159_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/160_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/168_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/172_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/175_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/176_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/178_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/183_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/187_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/18_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/192_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/193_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/205_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/208_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/212_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/213_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/216_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/220_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/23_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/241_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/242_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/252_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/261_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/265_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/266_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/269_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/274_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/277_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/287_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/30_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/59_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/71_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/7_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/8_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_104_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_122_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_125_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_130_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_132_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_147_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_153_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_155_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_156_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_160_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_166_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_172_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_174_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_185_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_190_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_194_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_199_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_1_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_212_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_21_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_227_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_228_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_229_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_256_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_273_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_283_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_290_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_293_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_295_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_296_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_29_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_303_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_304_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_308_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_309_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_317_100.jpg	Golden Delicious
+data/images/val/Golden Delicious/r_319_100.jpg	Golden Delicious
+data/images/val/Granny Smith/105_100.jpg	Granny Smith
+data/images/val/Granny Smith/119_100.jpg	Granny Smith
+data/images/val/Granny Smith/122_100.jpg	Granny Smith
+data/images/val/Granny Smith/123_100.jpg	Granny Smith
+data/images/val/Granny Smith/127_100.jpg	Granny Smith
+data/images/val/Granny Smith/130_100.jpg	Granny Smith
+data/images/val/Granny Smith/135_100.jpg	Granny Smith
+data/images/val/Granny Smith/137_100.jpg	Granny Smith
+data/images/val/Granny Smith/145_100.jpg	Granny Smith
+data/images/val/Granny Smith/146_100.jpg	Granny Smith
+data/images/val/Granny Smith/161_100.jpg	Granny Smith
+data/images/val/Granny Smith/17_100.jpg	Granny Smith
+data/images/val/Granny Smith/185_100.jpg	Granny Smith
+data/images/val/Granny Smith/187_100.jpg	Granny Smith
+data/images/val/Granny Smith/192_100.jpg	Granny Smith
+data/images/val/Granny Smith/194_100.jpg	Granny Smith
+data/images/val/Granny Smith/199_100.jpg	Granny Smith
+data/images/val/Granny Smith/203_100.jpg	Granny Smith
+data/images/val/Granny Smith/210_100.jpg	Granny Smith
+data/images/val/Granny Smith/213_100.jpg	Granny Smith
+data/images/val/Granny Smith/220_100.jpg	Granny Smith
+data/images/val/Granny Smith/222_100.jpg	Granny Smith
+data/images/val/Granny Smith/225_100.jpg	Granny Smith
+data/images/val/Granny Smith/226_100.jpg	Granny Smith
+data/images/val/Granny Smith/232_100.jpg	Granny Smith
+data/images/val/Granny Smith/233_100.jpg	Granny Smith
+data/images/val/Granny Smith/238_100.jpg	Granny Smith
+data/images/val/Granny Smith/243_100.jpg	Granny Smith
+data/images/val/Granny Smith/254_100.jpg	Granny Smith
+data/images/val/Granny Smith/258_100.jpg	Granny Smith
+data/images/val/Granny Smith/263_100.jpg	Granny Smith
+data/images/val/Granny Smith/270_100.jpg	Granny Smith
+data/images/val/Granny Smith/271_100.jpg	Granny Smith
+data/images/val/Granny Smith/274_100.jpg	Granny Smith
+data/images/val/Granny Smith/277_100.jpg	Granny Smith
+data/images/val/Granny Smith/306_100.jpg	Granny Smith
+data/images/val/Granny Smith/311_100.jpg	Granny Smith
+data/images/val/Granny Smith/314_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_112_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_134_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_135_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_138_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_14_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_159_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_18_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_191_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_192_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_196_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_198_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_199_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_204_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_205_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_216_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_223_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_224_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_227_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_228_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_229_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_22_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_236_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_238_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_245_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_250_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_253_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_264_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_268_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_269_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_271_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_273_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_280_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_285_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_307_100.jpg	Granny Smith
+data/images/val/Granny Smith/r_309_100.jpg	Granny Smith
+data/images/val/Pink Lady/100_100.jpg	Pink Lady
+data/images/val/Pink Lady/104_100.jpg	Pink Lady
+data/images/val/Pink Lady/110_100.jpg	Pink Lady
+data/images/val/Pink Lady/120_100.jpg	Pink Lady
+data/images/val/Pink Lady/128_100.jpg	Pink Lady
+data/images/val/Pink Lady/139_100.jpg	Pink Lady
+data/images/val/Pink Lady/141_100.jpg	Pink Lady
+data/images/val/Pink Lady/153_100.jpg	Pink Lady
+data/images/val/Pink Lady/171_100.jpg	Pink Lady
+data/images/val/Pink Lady/176_100.jpg	Pink Lady
+data/images/val/Pink Lady/181_100.jpg	Pink Lady
+data/images/val/Pink Lady/183_100.jpg	Pink Lady
+data/images/val/Pink Lady/187_100.jpg	Pink Lady
+data/images/val/Pink Lady/188_100.jpg	Pink Lady
+data/images/val/Pink Lady/189_100.jpg	Pink Lady
+data/images/val/Pink Lady/18_100.jpg	Pink Lady
+data/images/val/Pink Lady/194_100.jpg	Pink Lady
+data/images/val/Pink Lady/1_100.jpg	Pink Lady
+data/images/val/Pink Lady/204_100.jpg	Pink Lady
+data/images/val/Pink Lady/208_100.jpg	Pink Lady
+data/images/val/Pink Lady/210_100.jpg	Pink Lady
+data/images/val/Pink Lady/214_100.jpg	Pink Lady
+data/images/val/Pink Lady/217_100.jpg	Pink Lady
+data/images/val/Pink Lady/21_100.jpg	Pink Lady
+data/images/val/Pink Lady/299_100.jpg	Pink Lady
+data/images/val/Pink Lady/29_100.jpg	Pink Lady
+data/images/val/Pink Lady/302_100.jpg	Pink Lady
+data/images/val/Pink Lady/303_100.jpg	Pink Lady
+data/images/val/Pink Lady/34_100.jpg	Pink Lady
+data/images/val/Pink Lady/42_100.jpg	Pink Lady
+data/images/val/Pink Lady/46_100.jpg	Pink Lady
+data/images/val/Pink Lady/47_100.jpg	Pink Lady
+data/images/val/Pink Lady/63_100.jpg	Pink Lady
+data/images/val/Pink Lady/64_100.jpg	Pink Lady
+data/images/val/Pink Lady/76_100.jpg	Pink Lady
+data/images/val/Pink Lady/84_100.jpg	Pink Lady
+data/images/val/Pink Lady/8_100.jpg	Pink Lady
+data/images/val/Pink Lady/91_100.jpg	Pink Lady
+data/images/val/Pink Lady/96_100.jpg	Pink Lady
+data/images/val/Pink Lady/99_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_103_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_106_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_109_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_113_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_126_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_129_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_135_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_14_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_155_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_158_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_163_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_168_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_180_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_18_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_200_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_205_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_26_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_274_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_284_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_285_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_288_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_289_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_300_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_39_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_42_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_48_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_81_100.jpg	Pink Lady
+data/images/val/Pink Lady/r_87_100.jpg	Pink Lady
+data/images/val/Red Delicious/0_100.jpg	Red Delicious
+data/images/val/Red Delicious/101_100.jpg	Red Delicious
+data/images/val/Red Delicious/133_100.jpg	Red Delicious
+data/images/val/Red Delicious/147_100.jpg	Red Delicious
+data/images/val/Red Delicious/14_100.jpg	Red Delicious
+data/images/val/Red Delicious/152_100.jpg	Red Delicious
+data/images/val/Red Delicious/165_100.jpg	Red Delicious
+data/images/val/Red Delicious/170_100.jpg	Red Delicious
+data/images/val/Red Delicious/176_100.jpg	Red Delicious
+data/images/val/Red Delicious/179_100.jpg	Red Delicious
+data/images/val/Red Delicious/189_100.jpg	Red Delicious
+data/images/val/Red Delicious/193_100.jpg	Red Delicious
+data/images/val/Red Delicious/1_100.jpg	Red Delicious
+data/images/val/Red Delicious/200_100.jpg	Red Delicious
+data/images/val/Red Delicious/201_100.jpg	Red Delicious
+data/images/val/Red Delicious/216_100.jpg	Red Delicious
+data/images/val/Red Delicious/226_100.jpg	Red Delicious
+data/images/val/Red Delicious/229_100.jpg	Red Delicious
+data/images/val/Red Delicious/230_100.jpg	Red Delicious
+data/images/val/Red Delicious/242_100.jpg	Red Delicious
+data/images/val/Red Delicious/250_100.jpg	Red Delicious
+data/images/val/Red Delicious/251_100.jpg	Red Delicious
+data/images/val/Red Delicious/252_100.jpg	Red Delicious
+data/images/val/Red Delicious/257_100.jpg	Red Delicious
+data/images/val/Red Delicious/271_100.jpg	Red Delicious
+data/images/val/Red Delicious/272_100.jpg	Red Delicious
+data/images/val/Red Delicious/273_100.jpg	Red Delicious
+data/images/val/Red Delicious/274_100.jpg	Red Delicious
+data/images/val/Red Delicious/277_100.jpg	Red Delicious
+data/images/val/Red Delicious/280_100.jpg	Red Delicious
+data/images/val/Red Delicious/281_100.jpg	Red Delicious
+data/images/val/Red Delicious/284_100.jpg	Red Delicious
+data/images/val/Red Delicious/292_100.jpg	Red Delicious
+data/images/val/Red Delicious/296_100.jpg	Red Delicious
+data/images/val/Red Delicious/300_100.jpg	Red Delicious
+data/images/val/Red Delicious/310_100.jpg	Red Delicious
+data/images/val/Red Delicious/311_100.jpg	Red Delicious
+data/images/val/Red Delicious/313_100.jpg	Red Delicious
+data/images/val/Red Delicious/319_100.jpg	Red Delicious
+data/images/val/Red Delicious/321_100.jpg	Red Delicious
+data/images/val/Red Delicious/323_100.jpg	Red Delicious
+data/images/val/Red Delicious/327_100.jpg	Red Delicious
+data/images/val/Red Delicious/36_100.jpg	Red Delicious
+data/images/val/Red Delicious/3_100.jpg	Red Delicious
+data/images/val/Red Delicious/43_100.jpg	Red Delicious
+data/images/val/Red Delicious/55_100.jpg	Red Delicious
+data/images/val/Red Delicious/62_100.jpg	Red Delicious
+data/images/val/Red Delicious/65_100.jpg	Red Delicious
+data/images/val/Red Delicious/69_100.jpg	Red Delicious
+data/images/val/Red Delicious/87_100.jpg	Red Delicious
+data/images/val/Red Delicious/93_100.jpg	Red Delicious
+data/images/val/Red Delicious/94_100.jpg	Red Delicious
+data/images/val/Red Delicious/99_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_105_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_123_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_125_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_137_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_149_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_150_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_157_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_165_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_169_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_170_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_185_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_187_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_199_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_208_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_214_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_219_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_21_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_220_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_226_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_242_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_25_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_270_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_278_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_291_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_292_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_299_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_301_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_305_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_318_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_326_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_44_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_47_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_58_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_61_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_63_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_67_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_74_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_77_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_82_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_83_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_87_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_90_100.jpg	Red Delicious
+data/images/val/Red Delicious/r_95_100.jpg	Red Delicious
+data/images/val/Red Yellow/0_100.jpg	Red Yellow
+data/images/val/Red Yellow/108_100.jpg	Red Yellow
+data/images/val/Red Yellow/109_100.jpg	Red Yellow
+data/images/val/Red Yellow/10_100.jpg	Red Yellow
+data/images/val/Red Yellow/115_100.jpg	Red Yellow
+data/images/val/Red Yellow/118_100.jpg	Red Yellow
+data/images/val/Red Yellow/119_100.jpg	Red Yellow
+data/images/val/Red Yellow/125_100.jpg	Red Yellow
+data/images/val/Red Yellow/129_100.jpg	Red Yellow
+data/images/val/Red Yellow/130_100.jpg	Red Yellow
+data/images/val/Red Yellow/132_100.jpg	Red Yellow
+data/images/val/Red Yellow/133_100.jpg	Red Yellow
+data/images/val/Red Yellow/139_100.jpg	Red Yellow
+data/images/val/Red Yellow/141_100.jpg	Red Yellow
+data/images/val/Red Yellow/142_100.jpg	Red Yellow
+data/images/val/Red Yellow/151_100.jpg	Red Yellow
+data/images/val/Red Yellow/159_100.jpg	Red Yellow
+data/images/val/Red Yellow/161_100.jpg	Red Yellow
+data/images/val/Red Yellow/167_100.jpg	Red Yellow
+data/images/val/Red Yellow/168_100.jpg	Red Yellow
+data/images/val/Red Yellow/186_100.jpg	Red Yellow
+data/images/val/Red Yellow/193_100.jpg	Red Yellow
+data/images/val/Red Yellow/197_100.jpg	Red Yellow
+data/images/val/Red Yellow/199_100.jpg	Red Yellow
+data/images/val/Red Yellow/202_100.jpg	Red Yellow
+data/images/val/Red Yellow/208_100.jpg	Red Yellow
+data/images/val/Red Yellow/211_100.jpg	Red Yellow
+data/images/val/Red Yellow/217_100.jpg	Red Yellow
+data/images/val/Red Yellow/231_100.jpg	Red Yellow
+data/images/val/Red Yellow/233_100.jpg	Red Yellow
+data/images/val/Red Yellow/243_100.jpg	Red Yellow
+data/images/val/Red Yellow/244_100.jpg	Red Yellow
+data/images/val/Red Yellow/247_100.jpg	Red Yellow
+data/images/val/Red Yellow/260_100.jpg	Red Yellow
+data/images/val/Red Yellow/263_100.jpg	Red Yellow
+data/images/val/Red Yellow/264_100.jpg	Red Yellow
+data/images/val/Red Yellow/288_100.jpg	Red Yellow
+data/images/val/Red Yellow/294_100.jpg	Red Yellow
+data/images/val/Red Yellow/299_100.jpg	Red Yellow
+data/images/val/Red Yellow/304_100.jpg	Red Yellow
+data/images/val/Red Yellow/310_100.jpg	Red Yellow
+data/images/val/Red Yellow/313_100.jpg	Red Yellow
+data/images/val/Red Yellow/314_100.jpg	Red Yellow
+data/images/val/Red Yellow/31_100.jpg	Red Yellow
+data/images/val/Red Yellow/38_100.jpg	Red Yellow
+data/images/val/Red Yellow/44_100.jpg	Red Yellow
+data/images/val/Red Yellow/54_100.jpg	Red Yellow
+data/images/val/Red Yellow/65_100.jpg	Red Yellow
+data/images/val/Red Yellow/66_100.jpg	Red Yellow
+data/images/val/Red Yellow/82_100.jpg	Red Yellow
+data/images/val/Red Yellow/86_100.jpg	Red Yellow
+data/images/val/Red Yellow/9_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_102_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_111_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_112_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_117_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_120_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_122_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_130_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_140_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_141_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_142_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_147_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_156_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_15_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_234_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_246_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_248_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_249_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_259_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_25_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_26_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_275_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_279_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_37_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_41_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_49_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_52_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_53_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_70_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_71_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_85_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_91_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_94_100.jpg	Red Yellow
+data/images/val/Red Yellow/r2_9_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_0_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_102_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_104_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_114_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_116_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_117_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_122_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_136_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_13_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_170_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_179_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_185_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_197_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_200_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_201_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_204_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_205_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_208_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_228_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_247_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_249_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_253_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_255_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_257_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_261_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_280_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_289_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_297_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_29_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_308_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_318_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_31_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_35_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_43_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_47_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_51_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_53_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_5_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_8_100.jpg	Red Yellow
+data/images/val/Red Yellow/r_96_100.jpg	Red Yellow
